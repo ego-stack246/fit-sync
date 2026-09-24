@@ -72,3 +72,4 @@ async def forgot_password(email_data: Dict[str, str]):
         "message": f"If an account exists for {email}, a secure password reset link has been dispatched.",
         "status": "dispatched"
     }
+

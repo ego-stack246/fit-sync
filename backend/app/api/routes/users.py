@@ -64,3 +64,4 @@ async def delete_current_user_account(
     await db.delete(user)
     await db.commit()
     return {"message": "All user account records, workout metrics, and profiles have been completely erased."}
+

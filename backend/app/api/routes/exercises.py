@@ -71,3 +71,4 @@ async def get_exercise(exercise_id: int):
         if ex["id"] == exercise_id:
             return ex
     raise HTTPException(status_code=404, detail="Exercise not found")
+

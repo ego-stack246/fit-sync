@@ -162,3 +162,4 @@ class VoicePreferenceUpdate(BaseModel):
     tone: Optional[str] = "calm"
     coaching_intensity: Optional[str] = "supportive"
     preferred_language: Optional[str] = "en"
+

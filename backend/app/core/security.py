@@ -62,3 +62,4 @@ async def get_current_user(token: str = Depends(oauth2_scheme)) -> dict:
     if not payload or "sub" not in payload:
         raise credentials_exception
     return payload
+

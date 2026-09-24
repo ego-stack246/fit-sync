@@ -163,3 +163,4 @@ class WellnessBreak(Base):
     completed_at = Column(DateTime, default=utc_now)
 
     user = relationship("User", back_populates="wellness_breaks")
+

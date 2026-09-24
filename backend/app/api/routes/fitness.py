@@ -126,3 +126,4 @@ async def get_fitness_progress(
             for s in sessions[:5]
         ]
     }
+

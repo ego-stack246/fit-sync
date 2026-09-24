@@ -134,3 +134,4 @@ class _WellnessBreakScreenState extends State<WellnessBreakScreen> {
     );
   }
 }
+

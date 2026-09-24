@@ -121,3 +121,4 @@ async def get_workout_history(
     )
     sessions = result.scalars().all()
     return sessions
+

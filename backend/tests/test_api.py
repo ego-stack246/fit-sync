@@ -156,3 +156,4 @@ async def test_exercise_library():
         exercises = res.json()
         assert len(exercises) >= 3
         assert any(e["name"] == "Bodyweight Squat" for e in exercises)
+

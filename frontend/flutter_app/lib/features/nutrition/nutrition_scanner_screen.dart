@@ -219,3 +219,4 @@ class _NutritionScannerScreenState extends State<NutritionScannerScreen> {
     );
   }
 }
+

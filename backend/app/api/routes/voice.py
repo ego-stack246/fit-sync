@@ -48,3 +48,4 @@ async def synthesize_speech(request: VoiceSynthesizeRequest):
         },
         "message": "Prefer on-device TTS using flutter_tts for zero-latency hands-free interaction."
     }
+

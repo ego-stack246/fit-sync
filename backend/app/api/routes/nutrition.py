@@ -150,3 +150,4 @@ async def get_nutrition_history(
         select(Meal).where(Meal.user_id == user_id).order_by(Meal.logged_at.desc()).limit(50)
     )
     return result.scalars().all()
+

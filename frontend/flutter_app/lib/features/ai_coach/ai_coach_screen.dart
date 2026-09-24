@@ -302,3 +302,4 @@ class _AICoachScreenState extends State<AICoachScreen> {
     );
   }
 }
+
