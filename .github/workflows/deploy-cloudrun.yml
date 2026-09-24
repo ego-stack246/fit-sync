@@ -47,3 +47,4 @@ jobs:
             --platform managed \
             --allow-unauthenticated \
             --set-env-vars JWT_SECRET=${{ secrets.JWT_SECRET }},GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}
+

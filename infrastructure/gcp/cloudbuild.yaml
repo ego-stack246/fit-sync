@@ -26,3 +26,4 @@ steps:
 
 images:
   - 'gcr.io/$PROJECT_ID/fitsync-backend:$COMMIT_SHA'
+

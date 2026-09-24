@@ -76,3 +76,4 @@ echo "🌐 Live Backend URL: $SERVICE_URL"
 echo "📖 Swagger API Docs: $SERVICE_URL/docs"
 echo "❤️ Health Check:     $SERVICE_URL/health"
 echo "=========================================================="
+

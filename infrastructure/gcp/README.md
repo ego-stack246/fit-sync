@@ -108,3 +108,4 @@ Verify your deployment anytime:
 - **API Documentation**: `https://YOUR_SERVICE_URL/docs`
 - **Health Check**: `https://YOUR_SERVICE_URL/health`
 - **AI Chat Endpoint**: `POST https://YOUR_SERVICE_URL/api/ai/chat`
+
